@@ -1,0 +1,93 @@
+.box{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.progress2{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+#logo{
+    background-color: lightgrey;
+    padding: 10px;
+}
+#progress1{
+    width:60%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.progressbar{
+    background-color: lightgrey;
+    justify-content: space-between;
+    margin: 20px;
+    display: flex;
+}
+
+.starcheck {
+    color: purple;
+}
+#content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+    padding: 10px;
+}
+#main{
+    width: 60%;
+    margin-left: 10%;
+}
+#side{
+    background-color: yellow;
+    color: red;
+    margin: 20px;
+    padding: 10px;
+}
+#chooseus{
+    background-color: lightgreen;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 10px;
+}
+
+#side1{
+    background-color: lightblue;
+    color: darkmagenta;
+    margin: 20px;
+    padding: 10px;
+}
+
+#side4{
+    background-color: yellow;
+    color: red;
+    padding: 10px;
+    width: 500px;
+}
+
+#side3{
+    background-color: lightgrey;
+    padding: 10px;
+    width: 650px;
+}
+
+
+
+#side2{
+    display: flex;
+    background-color: lightgrey;
+    width: 600px;
+    height: 700px;
+    margin: 20px;
+}
+
+
+footer{
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
